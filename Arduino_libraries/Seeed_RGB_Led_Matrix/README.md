@@ -4,7 +4,7 @@ Grove RGB LED Matrix
 
 Introduction of LED matrix.
 ----------------------------  
-This is the driver for Gvove 8X8 RGB LED matrix.
+This is the driver for Grove 8X8 RGB LED matrix.
 There are several examples for RGB LED matrix.  
 Including build-in examples:
 
