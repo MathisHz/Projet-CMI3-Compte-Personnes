@@ -37,5 +37,5 @@ Nous avons alors produit un système alimenté par batterie rechargeable, fixé 
 </p>
 
 <p>
-  Vous trouverez dans ce dépôt le rapport de notre projet ainsi que les programmes utilisés pour faire fonctionner le système et le site Web.
+  Vous trouverez dans ce dépôt le rapport et les programmes (Arduino et site Web) de notre projet ainsi que les bibliothèques Arduino utilisées.
 </p>
