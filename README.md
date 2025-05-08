@@ -39,3 +39,30 @@ Nous avons alors produit un système alimenté par batterie rechargeable, fixé 
 <p>
   Vous trouverez dans ce dépôt le rapport et les programmes (Arduino et site Web) de notre projet ainsi que les bibliothèques Arduino utilisées.
 </p>
+
+<br/>
+<p>
+  Voici le matériel que nous avons utilisé pour réaliser ce projet :
+</p>
+<table align="center">
+  <tr>
+    <th>Besoin</th>
+    <th>Composant</th>
+  </tr>
+  <tr>
+    <td>Détecter une entrée / sortie</td>
+    <td>2 capteurs à ultrasons HC-SR04</td>
+  </tr>
+  <tr>
+    <td>Afficher le nombre de personnes présentes</td>
+    <td>2 matrices LED RGB Grove 8x8</td>
+  </tr>
+  <tr>
+    <td>Traiter les informations</td>
+    <td>Carte Arduino Uno + Grove Base Shield</td>
+  </tr>
+  <tr>
+    <td>Alimenter le système</td>
+    <td>Batterie 5200mAh sortie 5V</td>
+  </tr>
+</table>
